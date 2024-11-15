@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinutha-17
-- 👀 I’m interested in ...python and java
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...app development
+- 👀 I’m interested in ...web development and java
+- 🌱 I’m currently learning ...java, and backend node.js
+- 💞️ I’m looking to collaborate on ...SDE and Full Stack Developer
 - 📫 How to reach me ...mail me @ vinuthahallur1709@gmail.com
 
 <!---
