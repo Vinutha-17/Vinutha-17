@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinutha-17
+- 👋 Hi, I’m Vinutha V Hallur
 - 👀 I’m interested in ...web development and java
 - 🌱 I’m currently learning ...java, and backend node.js
 - 💞️ I’m looking to collaborate on ...SDE and Full Stack Developer
